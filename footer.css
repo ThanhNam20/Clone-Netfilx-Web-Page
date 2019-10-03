@@ -1,0 +1,24 @@
+/* Footer */
+.footer{
+  overflow: hidden;
+  padding: 0 2rem;
+  background: var(--dark-color);
+}
+.footer, .footer a {
+  color: #999;
+  font-size: 0.9rem;
+}
+.footer p {
+  margin-bottom: 1.5rem;
+}
+.footer .footer-cols {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 2rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.footer li {
+  line-height: 1.9;
+}
