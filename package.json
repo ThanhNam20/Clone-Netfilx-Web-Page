@@ -1,0 +1,19 @@
+{
+  "name": "clone-netfilx-web-page",
+  "version": "1.0.0",
+  "description": "Clone Netflix Page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanhNam20/Clone-Netfilx-Web-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThanhNam20/Clone-Netfilx-Web-Page/issues"
+  },
+  "homepage": "https://github.com/ThanhNam20/Clone-Netfilx-Web-Page#readme"
+}
